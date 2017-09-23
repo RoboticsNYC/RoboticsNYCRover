@@ -1,3 +1,4 @@
+//maddison est chiante
 #include<NewPing.h>
 #include<Servo.h>
 #define RANGE_SENSOR_PIN 0
