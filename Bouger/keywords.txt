@@ -1,5 +1,0 @@
-Bouger		KEYWORD1
-app		KEYWORD2
-boug		KEYWORD2
-allerposer	KEYWORD2
-avan		KEYWORD2
